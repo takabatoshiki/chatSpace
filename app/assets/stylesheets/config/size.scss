@@ -1,0 +1,19 @@
+// notification
+$notificationHeight: 24px;
+
+// sidebar & main header
+$headerHeight: 100px;
+
+// sidebar_header
+$side_header_font: 16px;
+
+// sidebar_contents
+$sidebarContentsHeight: calc(100vh - #{$headerHeight});
+$side_group_name: 15px;
+$side_group_message: 11px;
+
+// main_form
+$right-headerHeight: 40px;
+$formHeight: 90px;
+$form_innerHeight: 50px;
+$mainContentsHeight: calc(100vh - #{$headerHeight} - #{$formHeight});

@@ -1,0 +1,17 @@
+.notification {
+  .notice {
+    background-color: $clearBlue;
+    color: $white;
+    text-align: center;
+    height: $notificationHeight;
+    line-height: $notificationHeight;
+  }
+
+  .alert {
+    background-color: $alert_orange;
+    color: $white;
+    text-align: center;
+    height: $notificationHeight;
+    line-height: $notificationHeight;
+  }
+}
